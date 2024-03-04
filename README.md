@@ -1,1 +1,3 @@
 Implements a simple search function...
+
+[![Build Status](https://app.travis-ci.com/bilgehantekin/myDemoApp.svg?branch=master)](https://app.travis-ci.com/bilgehantekin/myDemoApp)
